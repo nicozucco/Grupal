@@ -1,6 +1,4 @@
-{
-    "nombre": "Lista de Autos",
-    "autos": [
+[
         {
             "Marca": "Nissan",
             "Modelo": "New Versa",
@@ -32,4 +30,3 @@
             "Puertas": "2",
         }
     ]
-}
