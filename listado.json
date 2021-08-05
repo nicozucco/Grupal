@@ -1,32 +1,32 @@
 [
     {
-        "Marca": "Nissan",
-        "Modelo": "New Versa",
-        "Color": "Blanco",
-        "Puertas": 4
+        "marca": "Nissan",
+        "modelo": "New Versa",
+        "color": "Blanco",
+        "puertas": 4
     },
     {
-        "Marca": "Volkswagen",
-        "Modelo": "Tiguan",
-        "Color": "Negro",
-        "Puertas": 4
+        "marca": "Volkswagen",
+        "modelo": "Tiguan",
+        "color": "Negro",
+        "puertas": 4
     },
     {
-        "Marca": "Renault",
-        "Modelo": "Oroch",
-        "Color": "Blanco",
-        "Puertas": 4
+        "marca": "Renault",
+        "modelo": "Oroch",
+        "color": "Blanco",
+        "puertas": 4
     },
     {
-        "Marca": "Chevrolet",
-        "Modelo": "Camaro",
-        "Color": "Rojo",
-        "Puertas": 2
+        "marca": "Chevrolet",
+        "modelo": "Camaro",
+        "color": "Rojo",
+        "puertas": 2
     },
     {
-        "Marca": "Honda",
-        "Modelo": "HR-V",
-        "Color": "Gris",
-        "Puertas": 2
+        "marca": "Honda",
+        "modelo": "HR-V",
+        "color": "Gris",
+        "puertas": 2
     }
 ]
